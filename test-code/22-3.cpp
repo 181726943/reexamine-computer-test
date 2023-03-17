@@ -134,6 +134,8 @@ int evaluate(string rpn){
         }
         //运算符则进行运算，因为每个操作数及运算符之间有空格，因此需要排除空格
         if(!isdigit(*it) && *it != ' '){
+            if(*it == '>' || *it == '<')  //处理移位运算符
+                ++it;
             operation(operand,*it);
         }
     }
