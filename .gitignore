@@ -34,5 +34,5 @@ exe/*
 output/*
 
 # vscode configration
-.vscode/*
+.vscode/
 
