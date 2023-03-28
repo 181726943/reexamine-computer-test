@@ -1,5 +1,5 @@
-# reexamine-computer-test
-复试机试题目
+# reexamine-computer-test/test-code
+HUST往年复试机试题目(题目来源于CSDN)
 
 # 1.1 文本字符
 ·从键盘输入一个文本（ASCII码文件），并将该文本输出到D盘根目录下的abc0.txt文件中，再关闭该文件，输入以ctrl+z结束。
