@@ -36,4 +36,7 @@ output/
 # vscode configration
 .vscode/
 
+# test c/cpp file
+test.cpp
+test.c
 
